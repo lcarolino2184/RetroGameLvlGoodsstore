@@ -1,0 +1,15 @@
+{
+    "os_list": [
+        {
+            "name": "Batocera (Pc_x64)",
+            "description": "64-bit Pc (recommended)",
+            "url": "https://batocera.org/upgrades/x86_64/stable/last/batocera-5.26-x86_64-20200527.img.gz",
+            "icon": "https://wiki.batocera.org/_media/logo.png",
+            "extract_size": 3072,
+            "extract_sha256": "14a9a899914184252ba08cb21663f6de115851f35a7afbef208bc502765d717a",
+            "image_download_size": 3072,
+            "release_date": "2020-07-03",
+            "image_download_sha256": "e86a9043d5394c4ae3d22d3ba62cd07d400156ec2319270d1e238ba5a0d17d9b"
+        }
+    ]
+}
