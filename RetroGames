@@ -1,0 +1,12 @@
+{
+    "os_list": [
+        {
+            "name": "Retro Games LvLgoodsstore ",
+            "description": "Imagens Game retro Prontas",
+            "icon": "https://s4.aconvert.com/convert/p3r68-cdx67/awh4e-o15d1.svg",
+            "subitems_url": "repositorioIso.json"
+        }
+
+            ]
+       
+}
